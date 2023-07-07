@@ -1,0 +1,14 @@
+vs
+.vs
+.vscode
+build
+bin
+dist
+node_modules
+crash.log
+coverage
+coverage-report
+tmpdata
+examples/models
+.idea/
+appdata
